@@ -1,0 +1,4 @@
+# .gitignore
+.idea
+*.jpg
+test1.txt
